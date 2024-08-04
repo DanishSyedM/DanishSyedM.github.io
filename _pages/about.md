@@ -7,7 +7,7 @@ subtitle: Senior Year at <a href='https://www.iitp.ac.in/'>IIT Patna, India</a>.
 profile:
   align: right
   image: danish.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>EE Department,</p>
     <p>IIT Patna,</p>
