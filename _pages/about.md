@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>EE Department,</p>
-    <p>IIT Patna,</p>
+    <p>Indian Institute of Technology Patna,</p>
     <p>Bihar, 801106</p>
 
 news: true # includes a list of news items
