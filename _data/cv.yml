@@ -7,6 +7,7 @@
       value: 1st January 2004
     - name: Languages
       value: English, Hindi, Urdu
+
 - title: Education
   type: time_table
   contents:
@@ -17,13 +18,6 @@
         - <u>Supervisor:</u> <a href="https://sites.google.com/site/ksudhiriitk/">Prof. Sudhir Kumar</a>
         - <u>CGPA:</u> 8.03/10 (Till 6th Semester)
         - <u>Thesis (Ongoing):</u> Quantum Neural Network Compression for CSI based Human Activity Recognition
-
-    # - title: Senior Secondary School 
-    #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-    #   year: 1900
-    #   description:
-    #     - Description 1.
-    #     - Description 2.
 
 - title: Work Experience
   type: time_table
@@ -68,20 +62,3 @@
     - year: 2022
       items:
         - Subcoordinator of NJACK (Computer Science Club of IIT Patna)
-
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items:
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
