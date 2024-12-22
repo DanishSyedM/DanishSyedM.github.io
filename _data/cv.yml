@@ -7,13 +7,12 @@
       value: 1st January 2004
     - name: Languages
       value: English, Hindi, Urdu
-
 - title: Education
   type: time_table
   contents:
     - title: Bachelor of Technology (Electrical Engineering)
       institution: Indian Institute of Technology Patna (IIT Patna), India
-      year: 2021 - 2025 (Expected)
+      year: 2021 - present
       description:
         - <u>Supervisor:</u> <a href="https://sites.google.com/site/ksudhiriitk/">Prof. Sudhir Kumar</a>
         - <u>CGPA:</u> 8.03/10 (Till 6th Semester)
@@ -26,25 +25,28 @@
     #     - Description 1.
     #     - Description 2.
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Intern
+      institution: Indian Institute of Science, Bangalore, India
+      year: Summer 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - <u>Mentor:</u> Prof. R. Venkatesh Babu 
+        - <u>Work:</u> Reconstructing 3D models of large-scale scenes through Federated Learning
+    - title: Research Intern
+      institution: Indian Institute of Technology, Delhi, India
+      year: Winter 2023
       description:
-        - Description 1.
-        - Description 2.
+        - <u>Mentor:</u> Prof. Sandeep Kumar
+        - <u>Work:</u> Developing a preprocessing technique for multi-class breast cancer subtyping using Graph ML 
+      - title: Research Intern
+      institution: Indian Institute of Technology, Delhi, India
+      year: Summer 2023
+      description:
+        - <u>Mentor:</u> Prof. Prathosh A P 
+        - <u>Work:</u> Developing a framework for cancer drug-response prediction  
+      
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
