@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-12-05 00:00:00-0001
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Paper titled [Quantum Convolutional Neural Networks based Human Activity Recognition using CSI]() accepted at [International Conference on COMmunication Systems & NETworkS (COMSNETS) 2025](https://www.comsnets.org/) 
